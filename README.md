@@ -5,8 +5,7 @@
 ## About Me
 I'm an Aspiring Programmer and established Architect, Designer, and Visual Artist currently studying at 42 Lisbon. With a robust background in architectural drafting, graphic design, and 3D modeling/rendering, I'm transitioning to the tech industry to bring my creative problem-solving skills to software development.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jcmspg&show_icons=true)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=jcmspg&show_icons=true&theme=dracula)
 
 ## Skills
 
